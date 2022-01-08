@@ -5,7 +5,7 @@
 
 ## Front End Developer
 
-<font color = "green"> How can I change the world ? world '< code />'</font>
+<font color = "green"> How can I change the world ? '< code />'</font>
 
 ## Reach out to me
 
