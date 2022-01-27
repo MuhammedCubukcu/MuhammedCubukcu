@@ -3,7 +3,6 @@
 
 ### Hi there, I'm Muhammed. :blush:
 
-## Front End Web Developer
 
 <font color = "green"> How can I change the world ? '< code />'</font>
 
