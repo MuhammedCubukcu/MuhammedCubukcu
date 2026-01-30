@@ -1,8 +1,11 @@
 💫 About Me
 
 🌱 Currently learning Spring Boot and modern backend development
+
 💬 Experienced with Maven, Lombok, Hibernate, Spring Data JPA, Layered Architecture, IoC, and Dependency Injection
+
 🚀 Interested in scalable backend systems, clean architecture, and microservice design
+
 📫 Reach me at muhammedcubukcu0@gmail.com
 
 
